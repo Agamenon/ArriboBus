@@ -1,0 +1,11 @@
+/* Put you custom stylings here! */
+.myCssClass {
+    color: #FF0000;
+}
+.user_info{
+	padding: 0;
+}
+.user_info div{
+	padding-left: 5px;
+	font-size: 12px;
+}
